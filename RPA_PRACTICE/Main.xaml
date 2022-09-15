@@ -12,7 +12,7 @@
   <mva:VisualBasic.Settings>
     <x:Null />
   </mva:VisualBasic.Settings>
-  <sap:VirtualizedContainerService.HintSize>1041.6,932</sap:VirtualizedContainerService.HintSize>
+  <sap:VirtualizedContainerService.HintSize>803.2,932</sap:VirtualizedContainerService.HintSize>
   <sap2010:WorkflowViewState.IdRef>ActivityBuilder_1</sap2010:WorkflowViewState.IdRef>
   <TextExpression.NamespacesForImplementation>
     <sco:Collection x:TypeArguments="x:String">
@@ -358,7 +358,7 @@
                                                     <scg:Dictionary x:TypeArguments="x:String, x:Object">
                                                       <av:Point x:Key="ShapeLocation">520,533.6</av:Point>
                                                       <av:Size x:Key="ShapeSize">200,96.8</av:Size>
-                                                      <av:PointCollection x:Key="ConnectorLocation">620,630.4 620,660.4 610,660.4 610,683.6</av:PointCollection>
+                                                      <av:PointCollection x:Key="ConnectorLocation">620,630.4 620,660.4 640,660.4 640,693.6</av:PointCollection>
                                                     </scg:Dictionary>
                                                   </sap:WorkflowViewStateService.ViewState>
                                                   <ui:InvokeWorkflowFile ArgumentsVariable="{x:Null}" ContinueOnError="{x:Null}" sap2010:Annotation.AnnotationText="// vendor information 템플릿 작성" DisplayName="Invoke WriteVendorInformation workflow" sap:VirtualizedContainerService.HintSize="200,96.8" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_13" UnSafe="False" WorkflowFileName="WriteVendorInformation.xaml">
@@ -378,7 +378,7 @@
                                                     <FlowStep x:Name="__ReferenceID11">
                                                       <sap:WorkflowViewStateService.ViewState>
                                                         <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                                                          <av:Point x:Key="ShapeLocation">510,683.6</av:Point>
+                                                          <av:Point x:Key="ShapeLocation">540,693.6</av:Point>
                                                           <av:Size x:Key="ShapeSize">200,84</av:Size>
                                                         </scg:Dictionary>
                                                       </sap:WorkflowViewStateService.ViewState>

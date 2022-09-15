@@ -8422,9 +8422,9 @@
     "restore": {
       "projectUniqueName": "RPA_PRACTICE",
       "projectName": "RPA_PRACTICE",
-      "projectPath": "C:\\Users\\Administrator\\Documents\\UiPath\\RPA_TEST\\RPA_PRACTICE\\.local",
+      "projectPath": "D:\\RPA_TEST\\RPA_PRACTICE\\.local",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Documents\\UiPath\\RPA_TEST\\RPA_PRACTICE\\.local",
+      "outputPath": "D:\\RPA_TEST\\RPA_PRACTICE\\.local",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
